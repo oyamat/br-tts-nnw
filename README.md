@@ -95,6 +95,11 @@ python tts_gui.py
 | GPU加速 | CUDA 11.8 |
 | 平均処理時間 | 約20-30秒/文章 |
 
+## GUI Versions
+
+- `tts_en_gui.py` - Multi-language version (Recommended)
+  - Supports 10 languages: Japanese, English, Chinese, Spanish, French, German, Italian, Portuguese, Korean, Russian
+  - 
 ## ライセンス
 
 本ソフトウェアは [GNU General Public License v3.0](LICENSE) の下でライセンスされています。
